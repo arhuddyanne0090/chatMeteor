@@ -1,3 +1,3 @@
 # chatMeteor
 ## Description
-	Simple Meteor Chat Application
+	Simple Meteor Chat App 
